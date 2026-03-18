@@ -126,7 +126,7 @@ export default function Home() {
             </svg>
           </div>
           <div className="flex-1">
-            <h1 className="text-sm font-semibold text-zinc-900 dark:text-zinc-100">Asistente — Unidad 1</h1>
+            <h1 className="text-sm font-semibold text-zinc-900 dark:text-zinc-100">ChatBot — Unidad 1</h1>
             <p className="text-xs text-zinc-500 dark:text-zinc-400">Dispositivos Móviles y Sistemas Operativos</p>
           </div>
           {user && (
